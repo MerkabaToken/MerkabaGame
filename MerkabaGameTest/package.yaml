@@ -10,9 +10,9 @@ dependencies:
   - gloss-gtk
   - bytestring
 library:
-  source-dirs: MerkabaGameTest/MerkabaGameTest
+  source-dirs: MerkabaGame/MerkabaGameTest
   exposed-modules: Main
 executables:
   MerkabaGameTest-exe:
-    source-dirs: MerkabaGameTest/MerkabaGameTest/app
+    source-dirs: MerkabaGame/MerkabaGameTest/app
     main: Main.hs
