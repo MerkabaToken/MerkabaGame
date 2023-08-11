@@ -1,0 +1,18 @@
+name: Merkaba-Helicopter
+version: 1.0.0
+dependencies:
+  - base >= 4.14 && < 5
+  - gloss >= 1.13
+  - http-client
+  - http-client-tls
+  - random
+  - JuicyPixels
+  - gloss-gtk
+  - bytestring
+library:
+  source-dirs: MerkabaGameTest/MerkabaGameTest
+  exposed-modules: Main
+executables:
+  MerkabaGameTest-exe:
+    source-dirs: MerkabaGameTest/MerkabaGameTest/app
+    main: Main.hs
