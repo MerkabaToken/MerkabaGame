@@ -9,7 +9,7 @@ To play the Merkaba Helicopter Game, you need to have GHC (Glasgow Haskell Compi
 1. Clone the repository:
 
 ```
-git clone https://github.com/MerkabaToken/MerkabaGameTest.git
+git clone https://github.com/MerkabaToken/MerkabaGame.git
 ```
 
 2. Change into the project directory:
