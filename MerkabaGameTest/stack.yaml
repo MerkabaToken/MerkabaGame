@@ -20,7 +20,7 @@ system-ghc: true
 #
 # Require a specific version of stack, using version ranges
 require-stack-version: -any # Default
-require-stack-version: ">=2.7"
+require-stack-version: ">=21.7"
 #
 # Override the architecture used by stack, especially useful on Windows
 arch: i386
