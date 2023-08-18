@@ -7,7 +7,7 @@ resolver: nightly-2023-08-17
 
 # Add another resolver for LTS 21.7 with GHC 9.4.5
 extra-deps:
-- lts-21.7
+- lts-any
 
 # Override default flag values for local packages and extra-deps
 # flags: {}
@@ -19,8 +19,7 @@ extra-deps:
 system-ghc: true
 #
 # Require a specific version of stack, using version ranges
-require-stack-version: -any # Default
-require-stack-version: ">=21.7"
+require-stack-version: -any
 #
 # Override the architecture used by stack, especially useful on Windows
 arch: i386
