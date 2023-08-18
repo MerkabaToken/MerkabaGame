@@ -12,9 +12,9 @@ To play the Merkaba Helicopter Game, you need to have GHC (Glasgow Haskell Compi
 git clone https://github.com/MerkabaToken/MerkabaGame.git
 ```
 
-2. Change into the project directory:
+2. Change into the project directory(Use path specific to where repository is cloned):
 ```
-cd MerkabaGame
+cd ~/Desktop/MerkabaGame
 ```
 
 3.Build the project using Stack:
