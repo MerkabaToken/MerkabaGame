@@ -14,7 +14,7 @@ git clone https://github.com/MerkabaToken/MerkabaGame.git
 
 2. Change into the project directory(Use path specific to where repository is cloned):
 ```
-cd ~/Desktop/MerkabaGame/MerkabaGameTest
+cd MerkabaGameTest
 ```
 
 3.Build the project using Stack:
